@@ -1,5 +1,7 @@
-For client.c
+For client
 gcc client.c -o client
 .\client
 
+
+For server
 c++ testserver.c -w -lWs2_32 -o server
