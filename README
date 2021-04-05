@@ -1,1 +1,3 @@
-TJENA
+For client.c
+gcc client.c -o client
+.\client
